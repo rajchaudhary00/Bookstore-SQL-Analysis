@@ -46,3 +46,17 @@ The project uses three related tables:
 
 ## Purpose
 This project was created to practice SQL concepts and develop practical database analysis skills.
+
+## Project Screenshots
+
+### 1. Books Table
+![Books Table](01_Books_Table.png)
+
+### 2. Genre-Wise Sales
+![Genre-Wise Sales](02_Genre_Wise_Sales.png)
+
+### 3. Most Frequently Ordered Book
+![Top Ordered Book](03_Top_Ordered_Book.png)
+
+### 4. Highest Customer Spending
+![Top Customer Spending](04_Top_Customer_Spending.png)
